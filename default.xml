@@ -552,6 +552,6 @@
   <project path="tools/swt" name="platform/tools/swt" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" />
   <project path="vendor/plain" name="android_platform_vendor_plain" remote="pa-legacy" revision="lp-legacy" />
-  <project path="platform_manifest" name="platform_manifest" remote="pa-legacy" revision="lp-legacy" />
+  <project path="platform_manifest" name="platform_manifest" remote="pa-legacy" revision="lp-5.1r1" />
 
 </manifest>
